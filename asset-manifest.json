@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Quotes/static/css/main.aa2346dd.chunk.css",
+    "main.js": "/Quotes/static/js/main.3b8f49d9.chunk.js",
+    "main.js.map": "/Quotes/static/js/main.3b8f49d9.chunk.js.map",
+    "runtime-main.js": "/Quotes/static/js/runtime-main.28ff633a.js",
+    "runtime-main.js.map": "/Quotes/static/js/runtime-main.28ff633a.js.map",
+    "static/js/2.8feefae2.chunk.js": "/Quotes/static/js/2.8feefae2.chunk.js",
+    "static/js/2.8feefae2.chunk.js.map": "/Quotes/static/js/2.8feefae2.chunk.js.map",
+    "static/js/3.4fdbae82.chunk.js": "/Quotes/static/js/3.4fdbae82.chunk.js",
+    "static/js/3.4fdbae82.chunk.js.map": "/Quotes/static/js/3.4fdbae82.chunk.js.map",
+    "index.html": "/Quotes/index.html",
+    "static/css/main.aa2346dd.chunk.css.map": "/Quotes/static/css/main.aa2346dd.chunk.css.map",
+    "static/js/2.8feefae2.chunk.js.LICENSE.txt": "/Quotes/static/js/2.8feefae2.chunk.js.LICENSE.txt",
+    "static/media/tumblr.356ede60.svg": "/Quotes/static/media/tumblr.356ede60.svg",
+    "static/media/twitter.8a050818.svg": "/Quotes/static/media/twitter.8a050818.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ff633a.js",
+    "static/js/2.8feefae2.chunk.js",
+    "static/css/main.aa2346dd.chunk.css",
+    "static/js/main.3b8f49d9.chunk.js"
+  ]
+}
